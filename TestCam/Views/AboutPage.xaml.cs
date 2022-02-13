@@ -8,6 +8,7 @@ namespace TestCam.Views
     {
         public AboutPage()
         {
+			InitializeComponent();
 			zoomLabel.Text = string.Format("Zoom: {0}", zoomSlider.Value);
 		}
 
