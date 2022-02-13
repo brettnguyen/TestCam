@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "SC2ghRG7P0P3uiEwk32/H5sLe0BRpxHN9CfqdsNoWYZqql7rZ4tRXlRqydn1xQOhRtzNS7DRNHVvuTWHQdRUBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\komor\\source\\repos\\TestCam\\TestCam\\TestCam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\komor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\komor\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\komor\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\komor\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\komor\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
