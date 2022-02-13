@@ -5,7 +5,12 @@
       "ProjectGuid": "c03dd0ff-fd14-4e4e-880b-50bdae1d896e",
       "DisplayName": "TestCam",
       "ColorIndex": 0
+    },
+    "46388da7-5d52-4191-b9fe-417855eba1dd": {
+      "ProjectGuid": "46388da7-5d52-4191-b9fe-417855eba1dd",
+      "DisplayName": "TestCam.Android",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
